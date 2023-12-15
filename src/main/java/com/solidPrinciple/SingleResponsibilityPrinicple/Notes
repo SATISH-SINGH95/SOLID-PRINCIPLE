@@ -1,0 +1,6 @@
+
+It states that every java class must perform a single functionality.
+Implementation of multiple functionalities in a single class will mashup the code.
+
+Example: If we want to write code for making sending OTP and making transactions then we should make two different class.
+One should be for Sending OTP , and another is for Making Transactions.

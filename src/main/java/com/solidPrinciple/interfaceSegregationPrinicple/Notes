@@ -1,0 +1,5 @@
+
+This principle states that the larger interfaces should split into smaller ones. Because the implementation class use only
+those methods that are required. We should not force the client to use the methods that they do not want to use.
+
+The goal of interface segregation principle is similar to the single responsibility principle.

@@ -1,0 +1,10 @@
+
+It states that, according to the new requirements the module should be open for extension but closed for modification.
+
+Example:
+We create service Interface in which we declare important incomplete methods.
+And we also create ServiceImpl class in which we implement Service Interface.
+
+We can not modify NotificationService Interface but we can implement it in other classes.
+
+So, conclusion is we can create interface or abstract class so that it can be implemented in different class according to need.

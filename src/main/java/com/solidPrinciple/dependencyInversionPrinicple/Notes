@@ -1,0 +1,9 @@
+It states that we must use abstract (abstract class & Interface) instead of concrete implementation.
+
+High level modules should not depend on low level modules but both should depend on the abstraction.
+
+Example:-
+If you are going to shopping mall and there you have purchased something. At the time of payment you give your
+credit/debit card for the payment. Now the employee will not bother that which card it is, Whether it is debit card or
+credit card. He simply swipe the card and make the payment. So here Payment module is not depend on card Module to check
+whether it is debit card or credit card.

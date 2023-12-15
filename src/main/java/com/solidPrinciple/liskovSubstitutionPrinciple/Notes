@@ -1,0 +1,3 @@
+It means that derived classes must be completely substitutable for their base classes.
+
+It is completely based on inheritance concept.
